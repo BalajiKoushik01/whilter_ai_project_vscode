@@ -1,0 +1,110 @@
+2025-04-25 21:53:35,225 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-25 21:53:35,473 - INFO -   - Bus: 1
+2025-04-25 21:57:48,059 - INFO - [SUCCESS] Path added: C:\Users\balaj\OneDrive\Desktop\whilter_ai_project_vscode\utils
+2025-04-25 21:57:53,343 - INFO - [SUCCESS] Model loaded successfully in 0.05 seconds
+2025-04-25 21:57:53,344 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-25 21:57:55,406 - INFO - [SUCCESS] Image processed in 2.05 seconds
+2025-04-25 21:57:55,406 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-25 21:57:55,407 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-25 21:57:55,413 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-25 21:57:55,695 - INFO - [SUCCESS] Detected 1 vehicle(s) in 2.35 seconds.
+2025-04-25 21:57:55,695 - INFO -   - Bus: 1
+2025-04-25 21:57:55,695 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-25 22:14:15,027 - INFO - [SUCCESS] Model loaded successfully in 0.04 seconds
+2025-04-25 22:14:15,028 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-25 22:14:16,718 - INFO - [SUCCESS] Image processed in 1.68 seconds
+2025-04-25 22:14:16,719 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-25 22:14:16,720 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-25 22:14:16,725 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-25 22:14:16,966 - INFO - [SUCCESS] Detected 1 vehicle(s) in 1.94 seconds.
+2025-04-25 22:14:16,967 - INFO -   - Bus: 1
+2025-04-25 22:14:16,967 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-26 08:24:47,885 - INFO - [SUCCESS] Model loaded successfully in 0.10 seconds
+2025-04-26 08:24:47,887 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-26 08:24:50,578 - INFO - [SUCCESS] Image processed in 2.67 seconds
+2025-04-26 08:24:50,584 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-26 08:24:50,588 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-26 08:24:50,596 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-26 08:24:50,854 - INFO - [SUCCESS] Detected 1 vehicle(s) in 2.96 seconds.
+2025-04-26 08:24:50,854 - INFO -   - Bus: 1
+2025-04-26 08:24:50,855 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-26 09:34:35,949 - INFO - [SUCCESS] Model loaded successfully in 0.10 seconds
+2025-04-26 09:34:35,949 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-26 09:34:38,541 - INFO - [SUCCESS] Image processed in 2.58 seconds
+2025-04-26 09:34:38,546 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-26 09:34:38,547 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-26 09:34:38,552 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-26 09:34:38,834 - INFO - [SUCCESS] Detection complete in 2.88 seconds.
+2025-04-26 09:34:38,834 - INFO - [SUCCESS] Detected 1 vehicle(s) in 2.88 seconds.
+2025-04-26 09:34:38,834 - INFO -   - Bus: 1
+2025-04-26 09:34:38,835 - INFO - [SUCCESS] Detected 1 vehicle(s) in 2.88 seconds.
+2025-04-26 09:34:38,835 - INFO -   - Bus: 1
+2025-04-26 09:34:38,835 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-26 09:36:23,182 - INFO - [SUCCESS] Model loaded successfully in 0.04 seconds
+2025-04-26 09:36:23,182 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-26 09:36:24,779 - INFO - [SUCCESS] Image processed in 1.59 seconds
+2025-04-26 09:36:24,780 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-26 09:36:24,781 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-26 09:36:24,786 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-26 09:36:25,001 - INFO - [SUCCESS] Detection complete in 1.82 seconds.
+2025-04-26 09:36:25,001 - INFO - [SUCCESS] Detected 1 vehicle(s) in 1.82 seconds.
+2025-04-26 09:36:25,002 - INFO -   - Bus: 1
+2025-04-26 09:36:25,880 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-26 09:36:25,890 - WARNING - Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2025-04-26 09:37:05,063 - INFO - Download complete
+2025-04-26 09:37:05,063 - WARNING - Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2025-04-26 09:37:16,772 - INFO - Download complete.
+2025-04-26 09:37:20,273 - INFO - License Plates: ['emisiones']
+2025-04-26 09:37:20,275 - INFO - [SUCCESS] Detected 1 vehicle(s) in 1.82 seconds.
+2025-04-26 09:37:20,275 - INFO -   - Bus: 1
+2025-04-26 09:37:20,276 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-26 13:07:24,966 - INFO - [SUCCESS] Model loaded successfully in 0.11 seconds
+2025-04-26 13:07:24,967 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-26 13:07:27,840 - INFO - [SUCCESS] Image processed in 2.86 seconds
+2025-04-26 13:07:27,846 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-26 13:07:27,847 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-26 13:07:27,853 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-26 13:07:28,164 - INFO - [SUCCESS] Detection complete in 3.19 seconds.
+2025-04-26 13:07:28,164 - INFO - [SUCCESS] Detected 1 vehicle(s) in 3.19 seconds.
+2025-04-26 13:07:28,164 - INFO -   - Bus: 1
+2025-04-26 13:07:29,360 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-26 13:07:45,523 - INFO - License Plates: ['emisiones']
+2025-04-26 13:07:45,536 - ERROR - Plate detection failed: name 'output_image' is not defined
+2025-04-26 13:07:45,539 - INFO - [SUCCESS] Detected 1 vehicle(s) in 3.19 seconds.
+2025-04-26 13:07:45,542 - INFO -   - Bus: 1
+2025-04-26 13:07:45,547 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-26 13:13:58,975 - INFO - [SUCCESS] Model loaded successfully in 0.04 seconds
+2025-04-26 13:13:58,976 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-26 13:14:00,682 - INFO - [SUCCESS] Image processed in 1.69 seconds
+2025-04-26 13:14:00,683 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-26 13:14:00,684 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-26 13:14:00,689 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-26 13:14:00,942 - INFO - [SUCCESS] Detection complete in 1.96 seconds.
+2025-04-26 13:14:00,942 - INFO - [SUCCESS] Detected 1 vehicle(s) in 1.96 seconds.
+2025-04-26 13:14:00,943 - INFO -   - Bus: 1
+2025-04-26 13:14:01,509 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-26 13:14:09,932 - INFO - License Plates: ['emisiones']
+2025-04-26 13:14:09,939 - INFO - [SUCCESS] Detected 1 vehicle(s) in 1.96 seconds.
+2025-04-26 13:14:09,939 - INFO -   - Bus: 1
+2025-04-26 13:14:09,940 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
+2025-04-26 14:58:40,259 - INFO - [SUCCESS] Model loaded successfully in 0.11 seconds
+2025-04-26 14:58:40,260 - INFO - [SUCCESS] Vehicle detection modules successfully imported.
+2025-04-26 14:58:43,025 - INFO - [SUCCESS] Image processed in 2.74 seconds
+2025-04-26 14:58:43,030 - INFO - [SUCCESS] Detected 1 vehicle(s).
+2025-04-26 14:58:43,035 - INFO - Vehicle counts: Bus: 1, Total: 1
+2025-04-26 14:58:43,046 - INFO - [SUCCESS] Output image saved to: output\bus1_detected.jpg
+2025-04-26 14:58:43,344 - INFO - [SUCCESS] Detection complete in 3.06 seconds.
+2025-04-26 14:58:43,344 - INFO - [SUCCESS] Detected 1 vehicle(s) in 3.06 seconds.
+2025-04-26 14:58:43,344 - INFO -   - Bus: 1
+2025-04-26 14:58:44,294 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-26 14:58:53,560 - INFO - [SUCCESS] EasyOCR initialized successfully
+2025-04-26 14:58:53,561 - INFO - [INFO] Attempting to detect license plates...
+2025-04-26 14:58:59,232 - INFO - [SUCCESS] Detected license plate: emisiones (confidence: 1.00)
+2025-04-26 14:58:59,232 - INFO - [SUCCESS] Extracted 1 license plates in 5.66 seconds
+2025-04-26 14:58:59,234 - INFO - [SUCCESS] License Plates: ['emisiones']
+2025-04-26 14:58:59,236 - INFO - [SUCCESS] License plate data saved to outputs/plates\bus1_plates.txt
+2025-04-26 14:58:59,246 - INFO - [SUCCESS] Annotated image saved to output\bus1_detected.jpg
+2025-04-26 14:58:59,248 - INFO - [SUCCESS] CSV summary updated at outputs/plate_summary.csv
+2025-04-26 14:58:59,249 - INFO - [SUCCESS] Detected 1 vehicle(s) in 3.06 seconds.
+2025-04-26 14:58:59,249 - INFO -   - Bus: 1
+2025-04-26 14:58:59,249 - INFO - [SUCCESS] Output saved to: output\bus1_detected.jpg
