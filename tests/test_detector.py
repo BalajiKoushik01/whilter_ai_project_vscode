@@ -89,7 +89,8 @@ def test_detect_vehicles_image_not_found(mock_imread, mock_model):
     
     assert boxes == []
     assert counts == {}
-    mock_imread.assert_called_once_with("nonexistent_image.jpg")
+    # A missing path is rejected before OpenCV attempts a read.
+    mock_imread.assert_not_called()
 
 
 @patch("vehicle_detection.detector.os.path.exists")
