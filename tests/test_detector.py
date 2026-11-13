@@ -2,11 +2,8 @@
 Unit tests for the detector module.
 """
 
-import os
 import pytest
 from unittest.mock import patch, MagicMock
-import numpy as np
-import cv2
 
 from vehicle_detection.detector import (
     load_model,
@@ -53,24 +50,15 @@ def test_generate_random_colors():
 
 
 @patch("vehicle_detection.detector.YOLO")
-def test_load_model_success(mock_yolo):
-    """Test that load_model returns a model when successful."""
+def test_load_model_success(mock_yolo, tmp_path):
+    """Load a model using an isolated file rather than polluting the checkout."""
     mock_model = MagicMock()
     mock_yolo.return_value = mock_model
-    
-    # Create a temporary model file
-    with open("temp_model.pt", "w") as f:
-        f.write("dummy model")
-    
-    try:
-        model = load_model("temp_model.pt")
-        assert model is not None
-        assert model == mock_model
-        mock_yolo.assert_called_once_with("temp_model.pt")
-    finally:
-        # Clean up
-        if os.path.exists("temp_model.pt"):
-            os.remove("temp_model.pt")
+    model_path = tmp_path / "model.pt"
+    model_path.write_bytes(b"test fixture")
+    model = load_model(str(model_path))
+    assert model is mock_model
+    mock_yolo.assert_called_once_with(str(model_path))
 
 
 def test_load_model_file_not_found():
